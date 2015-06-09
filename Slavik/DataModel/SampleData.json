@@ -1,0 +1,25 @@
+﻿{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "Group Title: 1",   
+    "Items":
+    [
+        {
+            "UniqueId": "Group-1-Item-1",
+            "Title": "Мент",
+            "Audio": "Assets/Sounds/chimes.wav",
+        },
+        {
+            "UniqueId": "Group-1-Item-2",
+            "Title": "Быстро блять",
+            "Audio": "Assets/Sounds/chord.wav",
+        },      
+        {
+        "UniqueId": "Group-1-Item-3",
+        "Title": "Че те надо",
+        "Audio": "Assets/Sounds/ding.wav"    
+      }
+    ]
+  }
+]
+}
